@@ -1,9 +1,19 @@
-### Olá, Eu sou o José Vitor 👋
-##
-- 🔭 Hoje estou em busca de um estágio em TI
-- 🌱 Estudando Java, HTML, Git e Banco de Dados 
-- 😄 Pronouns: ele/dele
+### 👋 Olá, eu sou o José Vitor
+Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia.
 
+🚀 Habilidades e Tecnologias em desenvolvimento:
+- Linguagens: Java, Python 
+- Front-end: HTML, CSS
+- Banco de Dados: MySQL
+
+💻 Projetos:
+- Jogo Blacjack (21) - Projeto final da disciplina de Programação Orientada a Objetos.
+
+📚 Interesses pessoais:
+- Além de estudar programação, gosto de fazer cursos de aperfeiçoamento.
+- Atualmente estou em busca de estágio em TI.
+
+##
 <div>
   <a href="https://beacons.ai/jsevitor">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jsevitor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
