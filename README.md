@@ -1,6 +1,5 @@
 ### Olá, Eu sou o José Vitor 👋
-
-
+##
 - 🔭 Hoje estou em busca de um estágio em TI
 - 🌱 Estudando Java, HTML, Git e Banco de Dados 
 - 😄 Pronouns: ele/dele
