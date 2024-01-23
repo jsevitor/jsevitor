@@ -4,16 +4,17 @@ Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia.
 🚀 Habilidades e Tecnologias em desenvolvimento:
 - Linguagens: JavaScript, Java, Python 
 - Front-end: HTML, CSS
-- FrameWork: React, React Native
+- FrameWork: React, React Native, Expo
 - Banco de Dados: MySQL
 
 💻 Projetos:
-- Aplicação em React que utilize a API
+- Spotify Explorer - Projeto final da disciplina de Programação para Internet II.
+- Wiki Mundo - Projeto da disciplina de Programação para Internet II. 
 - Jogo Blacjack (21) - Projeto final da disciplina de Programação Orientada a Objetos.
 
 📚 Interesses pessoais:
-- Além de estudar programação, gosto de fazer cursos de aperfeiçoamento.
-- Atualmente estou em busca de estágio em TI.
+- Aprofundar os conhecimentos em tecnologias front-end.
+- Desenvolvimento de Aplicações Web e Dispositivos Móveis.
 
 ##
 <div>
