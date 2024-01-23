@@ -2,11 +2,13 @@
 Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia.
 
 🚀 Habilidades e Tecnologias em desenvolvimento:
-- Linguagens: Java, Python 
+- Linguagens: JavaScript, Java, Python 
 - Front-end: HTML, CSS
+- FrameWork: React, React Native
 - Banco de Dados: MySQL
 
 💻 Projetos:
+- Aplicação em React que utilize a API
 - Jogo Blacjack (21) - Projeto final da disciplina de Programação Orientada a Objetos.
 
 📚 Interesses pessoais:
