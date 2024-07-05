@@ -1,20 +1,58 @@
 ### 👋 Olá, eu sou o José Vitor
-Estudante de Análise e Desenvolvimento de Sistemas e entusiasta da tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação, com foco em desenvolvimento web e mobile.
 
-🚀 Habilidades e Tecnologias em desenvolvimento:
-- Linguagens: JavaScript, Java, Python 
-- Front-end: HTML, CSS
-- FrameWork: React, React Native, Expo
-- Banco de Dados: MySQL
+
+🚀 Habilidades e Tecnologias
+- Linguagens de Programação:
+  - JavaScript
+  - TypeScript
+  - Python
+  - Java
+
+- Front-end:
+  - HTML
+  - CSS
+  - React
+  - React Native
+  - Next.js
+  - Angular
+
+- Back-end:
+  - Node.js
+
+- Banco de Dados:
+  - MySQL
+
+-APIs REST:
+  - Experiência na utilização de APIs REST para integração com serviços externos
 
 💻 Projetos:
-- Spotify Explorer - Projeto final da disciplina de Programação para Internet II.
-- Wiki Mundo - Projeto da disciplina de Programação para Internet II. 
-- Jogo Blacjack (21) - Projeto final da disciplina de Programação Orientada a Objetos.
+- [Portifólio Pessoal](https://jsevitor.github.io/portifolio/)
+  - Um site de portfólio pessoal que exibe meus projetos, habilidades e experiência.
+  - Desenvolvido usando HTML, CSS, JavaScript.
+     
+- [Landing Page - Granto US](https://jsevitor.github.io/desafio-granto-landing-page/)
+  - Esta é a landing page para o desafio Granto Seguros, apresentando a Inteligência Artificial URSULAH, que simplifica a análise de contratos utilizando técnicas avançadas de Machine Learning.
+  - Desenvolvida utilizando HTML5, CSS3, JavaScript, Bootstrap Icons e integrações com um chatbot nos botões CTA.
+
+- [Sistema de Controle de Estoque](https://projeto-orientado/netlify.app)
+  - Desenvolvido como projeto principal da disciplina Projeto Orientado.
+  - Aplicação web para gerenciamento de estoque desenvolvido com React no frontend e Node.js no backend.
+  - Funcionalidades incluem cadastro de fornecedores, produtos e usuários, controle de entrada e saída de produtos.
+  - Tecnologias utilizadas incluem React, Vite e Styled-Components no frontend, e Node.js, Express, Cors, MySQL no backend.
+
+- [Spotify Explorer](https://explorerspotify.netlify.app/)
+  - Projeto final da disciplina de Programação para Internet II.
+  - Explora a API do Spotify para buscar e exibir informações sobre artistas e suas músicas.
+  
+- [Wiki Mundo](https://jsevitor.github.io/wiki-mundo/)
+  - Projeto da disciplina de Programação para Internet II.
+  - Uma aplicação web colaborativa para criação e edição de artigos sobre diversos temas.
 
 📚 Interesses pessoais:
 - Aprofundar os conhecimentos em tecnologias front-end.
-- Desenvolvimento de Aplicações Web e Dispositivos Móveis.
+- Desenvolvimento de aplicações web e dispositivos móveis.
+- Explorar novas tecnologias e frameworks para aprimorar minhas habilidades de desenvolvimento.
 
 ##
 <div>
