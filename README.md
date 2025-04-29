@@ -1,19 +1,23 @@
 
 ## 👋 José Vitor Oliveira
 
-Olá, meu nome é José Vitor, mas pode me chamar apenas de Vitor. Sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFTM - Campus Ituiutaba e estou cursando o último período.
+Sou Desenvolvedor Full Stack com graduação em Análise e Desenvolvimento de Sistemas pelo IFTM - Campus Ituiutaba.
 
-No último ano, descobri minha paixão pelo desenvolvimento de software para a web, o que me levou a dedicar esse tempo ao estudo de Frontend, embora também tenha muito interesse em aprofundar meus conhecimentos em Backend. Sou extremamente comprometido e estou sempre em busca de novos conhecimentos e tecnologias que possam otimizar meu trabalho como desenvolvedor.
+Ao longo da minha formação, descobri uma verdadeira paixão pelo desenvolvimento web. Comecei focado em Frontend, mas com o tempo expandi meus conhecimentos e hoje atuo também no Backend, buscando sempre entregar soluções completas e de qualidade.
+
+Sou comprometido com aprendizado contínuo, sempre explorando novas tecnologias e boas práticas que possam otimizar meu trabalho como desenvolvedor e agregar valor aos projetos em que atuo.
 
 <p align="left">
   💌 Onde me encontrar:
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:vitorjseo@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-0883D8?style=flat-square&labelColor=0883D8&logo=gmail&logoColor=FFFFFF&link=mailto:vitorjseo@gmail.com" alt="mailto:vitorjseo@gmail.com"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/josevitoroliveira/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0883D8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevitoroliveira/" alt="LinkedIn"/></a>
+  <a href="https://jsevitor.github.io/portfolio" title="Portfólio">
+  <img src="https://img.shields.io/badge/-Portfólio-0883D8?style=flat-square&logo=Linkedin&logoColor=white&link=https://jsevitor.github.io/portfolio" alt="Portfólio"/></a>
 </p>
 
 ## 🚀 Minhas Skills
