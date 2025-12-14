@@ -1,11 +1,12 @@
-
 ## 👋 José Vitor Oliveira
 
-Graduado em Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React, Next.js, TypeScript e Tailwind CSS. Durante minha formação, participei de projetos acadêmicos e pessoais, atuando no desenvolvimento de soluções Full Stack. 
+Desenvolvedor **Full Stack Júnior**, graduado em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações web modernas, atuando do frontend ao backend.
 
-Atualmente, estou focado em aprofundar minhas habilidades em Front-End, com ênfase na construção de interfaces modernas, responsivas e bem estruturadas. Tenho paixão por resolver problemas com tecnologia e busco aplicar meu conhecimento em projetos desafiadores que impulsionem minha evolução como desenvolvedor Front-End. 
+Trabalho com **React, Next.js, Node.js, TypeScript e bancos de dados relacionais**, desenvolvendo soluções completas que vão desde interfaces responsivas e acessíveis até integração com APIs, autenticação e persistência de dados.
 
-Sou comprometido com aprendizado contínuo, sempre explorando novas tecnologias e boas práticas que possam otimizar meu trabalho como desenvolvedor e agregar valor aos projetos em que atuo.
+Tenho também experiência profissional em **suporte técnico, infraestrutura e monitoramento de sistemas**, o que me proporciona uma visão ampla do ciclo de desenvolvimento de software e do funcionamento de ambientes corporativos.
+
+Sou movido por aprendizado contínuo, boas práticas e pela construção de soluções bem estruturadas, escaláveis e com foco em usabilidade e performance.
 
 <p align="left">
   💌 Onde me encontrar:
@@ -13,14 +14,20 @@ Sou comprometido com aprendizado contínuo, sempre explorando novas tecnologias 
 
 <p align="left">
   <a href="mailto:josevitoroliveirar@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-0883D8?style=flat-square&labelColor=0883D8&logo=gmail&logoColor=FFFFFF&link=mailto:vitorjseo@gmail.com" alt="mailto:josevitoroliveirar@gmail.com"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-0883D8?style=flat-square&labelColor=0883D8&logo=gmail&logoColor=FFFFFF" />
+  </a>
   <a href="https://www.linkedin.com/in/josevitoroliveira/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0883D8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevitoroliveira/" alt="LinkedIn"/></a>
-  <a href="https://jsevitorportfolio.netlify.app/" title="Portfólio">
-  <img src="https://img.shields.io/badge/-Portfólio-0883D8?style=flat-square&logo=Linkedin&logoColor=white&link=https://jsevitorportfolio.netlify.app/" alt="Portfólio"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0883D8?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vitoroliveiraportfolio.vercel.app/" title="Portfólio">
+    <img src="https://img.shields.io/badge/-Portfólio-0883D8?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-## 🚀 Minhas Skills
+---
+
+## 🚀 Tech Stack
+
 <div style="display: inline_block">        
   <img align="center" alt="jsevitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jsevitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -39,13 +46,3 @@ Sou comprometido com aprendizado contínuo, sempre explorando novas tecnologias 
   <img align="center" alt="jsevitor-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-##
-<div>
-  <a href="https://beacons.ai/jsevitor">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jsevitor&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsevitor&layout=compact&langs_count=16&theme=gruvbox"/>
-</div>
-
-
-  
- 
